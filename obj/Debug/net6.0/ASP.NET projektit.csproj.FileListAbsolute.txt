@@ -32,3 +32,37 @@ C:\Users\makke\Desktop\ASP.NET projektit\bin\Debug\net6.0\Microsoft.Extensions.L
 C:\Users\makke\Desktop\ASP.NET projektit\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\makke\Desktop\ASP.NET projektit\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 C:\Users\makke\Desktop\ASP.NET projektit\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\bin\Debug\net6.0\appsettings.json
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\bin\Debug\net6.0\ASP.NET projektit.exe
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\bin\Debug\net6.0\ASP.NET projektit.deps.json
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\bin\Debug\net6.0\ASP.NET projektit.runtimeconfig.json
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\bin\Debug\net6.0\ASP.NET projektit.dll
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\bin\Debug\net6.0\ASP.NET projektit.pdb
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\obj\Debug\net6.0\ASP.NET projektit.csproj.AssemblyReference.cache
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\obj\Debug\net6.0\ASP.NET projektit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\obj\Debug\net6.0\ASP.NET projektit.AssemblyInfoInputs.cache
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\obj\Debug\net6.0\ASP.NET projektit.AssemblyInfo.cs
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\obj\Debug\net6.0\ASP.NET projektit.csproj.CoreCompileInputs.cache
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\obj\Debug\net6.0\ASP.NET projektit.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\obj\Debug\net6.0\ASP.NET projektit.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\obj\Debug\net6.0\scopedcss\bundle\ASP.NET projektit.styles.css
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\obj\Debug\net6.0\ASP.NET projektit.csproj.CopyComplete
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\obj\Debug\net6.0\ASP.NET projektit.dll
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\obj\Debug\net6.0\refint\ASP.NET projektit.dll
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\obj\Debug\net6.0\ASP.NET projektit.pdb
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\obj\Debug\net6.0\ASP.NET projektit.genruntimeconfig.cache
+C:\Users\Macce\Desktop\.NET23KA\ASP.NET\ASP.apiloop\obj\Debug\net6.0\ref\ASP.NET projektit.dll

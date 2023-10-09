@@ -3,52 +3,29 @@ using System;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace ASP.NET_projektit.Controllers;
-
-[ApiController]
-[Route("Api2")]
-public class Api2Controller : ControllerBase
+namespace ASP.NET_projektit.Controllers
 {
-    private readonly IHttpClientFactory _clientFactory;
-
-    public Api2Controller(IHttpClientFactory clientFactory)
+    [ApiController]
+    [Route("Api2")]
+    public class Api2Controller : ControllerBase
     {
-        _clientFactory = clientFactory ?? throw new ArgumentNullException(nameof(clientFactory));
-    }
-
-    [HttpGet]
-    public async Task<IActionResult> Get()
-    {
-        var handler = new HttpClientHandler
+        [HttpGet]
+        public async Task<string> Get()
         {
-            ServerCertificateCustomValidationCallback = HttpClientHandler.DangerousAcceptAnyServerCertificateValidator
-        };
-        var client = _clientFactory.CreateClient();
-        client.DefaultRequestHeaders.Accept.Clear();
+            
+            Console.WriteLine("Api2Controller's Get method was called.");
 
-        // Add this if the handler is created to bypass SSL validation
-        client = new HttpClient(handler);
+            await Task.Delay(1000);
 
-        // Introduce a delay of 1 second
-        await Task.Delay(1000);
+            var handler = new HttpClientHandler
+            {
+                ServerCertificateCustomValidationCallback = HttpClientHandler.DangerousAcceptAnyServerCertificateValidator
+            };
 
-        try
-        {
-            Console.WriteLine("kutsutaan api1");
+            using var client = new HttpClient(handler);
+            Console.WriteLine("Calling Api1.");
             var response = await client.GetAsync("https://localhost:7211/api1");
-            if (response.IsSuccessStatusCode)
-            {
-                var content = await response.Content.ReadAsStringAsync();
-                return Ok(content);
-            }
-            else
-            {
-                return BadRequest($"Failed with status code: {response.StatusCode}");
-            }
-        }
-        catch (Exception ex)
-        {
-            return BadRequest($"Error: {ex.Message}");
+            return await response.Content.ReadAsStringAsync();
         }
     }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\makke\\Desktop\\ASP.NET projektit\\ASP.NET projektit.csproj": {}
+    "C:\\Users\\Macce\\Desktop\\.NET23KA\\ASP.NET\\ASP.apiloop\\ASP.NET projektit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\makke\\Desktop\\ASP.NET projektit\\ASP.NET projektit.csproj": {
+    "C:\\Users\\Macce\\Desktop\\.NET23KA\\ASP.NET\\ASP.apiloop\\ASP.NET projektit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\makke\\Desktop\\ASP.NET projektit\\ASP.NET projektit.csproj",
+        "projectUniqueName": "C:\\Users\\Macce\\Desktop\\.NET23KA\\ASP.NET\\ASP.apiloop\\ASP.NET projektit.csproj",
         "projectName": "ASP.NET projektit",
-        "projectPath": "C:\\Users\\makke\\Desktop\\ASP.NET projektit\\ASP.NET projektit.csproj",
-        "packagesPath": "C:\\Users\\makke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\makke\\Desktop\\ASP.NET projektit\\obj\\",
+        "projectPath": "C:\\Users\\Macce\\Desktop\\.NET23KA\\ASP.NET\\ASP.apiloop\\ASP.NET projektit.csproj",
+        "packagesPath": "C:\\Users\\Macce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Macce\\Desktop\\.NET23KA\\ASP.NET\\ASP.apiloop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\makke\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Macce\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
